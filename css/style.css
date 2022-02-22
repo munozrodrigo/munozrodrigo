@@ -153,7 +153,20 @@ button:focus {
     padding-top: 100px;
     padding-bottom: 100px;
     position: relative;
+}
+
+.img-back {
+    height: 300px;
     background-color: #fff;
+    background-image:url("../images/hireme.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#text-img {
+    padding-top: 80px;
+    color: #ffffff;
 }
 
 .h-100vh {
@@ -505,7 +518,7 @@ button:focus {
     width: 1px;
     height: 10px;
     transition: .9s;
-    background-color: #0563bb;
+    background-color: #e65f78;
   }
   
 /*--------------------------------------------------------------
@@ -581,7 +594,7 @@ section {
     font-weight: 600;
     text-transform: uppercase;
     font-family: "Poppins", sans-serif;
-    color: #0563bb;
+    color: #e65f78;
     margin-bottom: 10px;
   }
   
