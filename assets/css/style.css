@@ -494,7 +494,7 @@ section {
   width: 1px;
   height: 10px;
   transition: .9s;
-  background-color: #0563bb;
+  background-color: #e65f78;
 }
 
 /*--------------------------------------------------------------
@@ -521,7 +521,7 @@ section {
   font-weight: 600;
   text-transform: uppercase;
   font-family: "Poppins", sans-serif;
-  color: #0563bb;
+  color: #e65f78;
   margin-bottom: 10px;
 }
 
